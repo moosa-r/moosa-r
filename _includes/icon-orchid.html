@@ -1,0 +1,4 @@
+<a href="https://orcid.org/{{ include.username }}">
+  <span class="icon icon--orchid">{% include icon-orchid.svg %}</span>
+  <span class="label">{{ include.label | default: include.username }}</span>
+</a>
