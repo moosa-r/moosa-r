@@ -1,0 +1,262 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Moosa Rezwani",
+    "label": "Immunologist - Cell Biologist - R developer",
+    "image": "",
+    "email": "moosa.rezwani@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "countryCode": "US",
+      "address": "Iran"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "moosa-rezwani",
+        "url": "https://www.linkedin.com/in/moosa-rezwani/"
+      }
+    ]
+  },
+  "work": [],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Tarbiat Modares University",
+      "area": "Medical Immunology",
+      "studyType": "Master of Science (M.Sc.)",
+      "startDate": "2016-12-31",
+      "endDate": "2019-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Tehran",
+      "area": "Cell/Cellular and Molecular Biology",
+      "studyType": "Bachelor of Science (B.S.)",
+      "startDate": "2010-12-31",
+      "endDate": "2015-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "edX Verified Certificate for The Immune System: New Developments in Research - Part 1",
+      "issuer": "edX",
+      "url": "https://s3.amazonaws.com/verify.edx.org/downloads/8c054a5346884082b1241f120fba38a6/Certificate.pdf"
+    },
+    {
+      "name": "edX Verified Certificate for Introduction to Computer Science and Programming Using Python",
+      "issuer": "edX",
+      "url": "https://s3.amazonaws.com/verify.edx.org/downloads/9ca099d1f3a54c6e8438c34ce6329ea1/Certificate.pdf"
+    },
+    {
+      "name": "Introduction to Systems Biology",
+      "issuer": "Coursera Course Certificates",
+      "url": "https://www.coursera.org/account/accomplishments/verify/QL9D6E9UFJS2"
+    },
+    {
+      "name": "Experimental Methods in Systems Biology",
+      "issuer": "Coursera Course Certificates",
+      "url": "https://www.coursera.org/account/accomplishments/verify/NMHM76NY5945"
+    },
+    {
+      "name": "edX Verified Certificate for Making Biologic Medicines for Patients: The Principles of Biopharmaceutical Manufacturing",
+      "issuer": "edX",
+      "url": "https://courses.edx.org/certificates/24c5263faddf4f308092c607e556cba6"
+    },
+    {
+      "name": "edX Verified Certificate for Data Science and Machine Learning Essentials",
+      "issuer": "edX",
+      "url": "https://courses.edx.org/certificates/82eb1fadc13b4101a25410c99521faa0"
+    },
+    {
+      "name": "Biology Meets Programming: Bioinformatics for Beginners",
+      "issuer": "Coursera Course Certificates",
+      "url": "https://www.coursera.org/account/accomplishments/verify/Y5Q4LH46C93U"
+    }
+  ],
+  "publications": [
+    {
+      "name": "rbioapi: User-Friendly R Interface to Biologic Web Services' API",
+      "publisher": "Bioinformatics",
+      "releaseDate": "2022-03-22",
+      "summary": "Many packages serve as an interface between R language and the Application Programming Interface (API) of databases and web services. There is usually a ‘one-package to one-service’ correspondence which poses challenges such as consistency to the users and scalability to the developers. This, among other issues, has motivated us to develop a package as a framework to facilitate the implementation of API resources in the R language. This R package, rbioapi, is a consistent, user-friendly, and scalable interface to biological and medical databases and web services. To date, rbioapi fully supports Enrichr, JASPAR, miEAA, PANTHER, Reactome, STRING, and UniProt. We aim to expand this list by collaborations and contributions and gradually make rbioapi as comprehensive as possible.\n\nAvailability and implementation\n\nrbioapi is deposited in CRAN under the https://cran.r-project.org/package=rbioapi address. The source code is publicly available in a GitHub repository at https://github.com/moosa-r/rbioapi/. Also, the documentation website is available at https://rbioapi.moosa-r.com.\n\nSupplementary information\n\nSupplementary data are available at Bioinformatics online.\nIssue Section: APPLICATIONS NOTE",
+      "url": "https://doi.org/10.1093/bioinformatics/btac172"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Immunology",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "R",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "High-Throughput Biological Data Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Real-Time Polymerase Chain Reaction (qPCR)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Primer Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cell Sorting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Transcriptomics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Laboratory Skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Molecular Biology",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bioinformatics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Flow Cytometry",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gel Electrophoresis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cell Culture",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cell Biology",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mammalian Cell Culture",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gene Expression Profiling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ELISA",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microarray Data Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Word",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Research",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "RNA Isolation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Life Sciences",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft PowerPoint",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "RNAseq Analysis",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Full Professional",
+      "language": "Arabic"
+    },
+    {
+      "fluency": "Full Professional",
+      "language": "English"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Persian"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "rbioapi: User-Friendly R Interface to Biologic Web Services' API",
+      "startDate": "",
+      "summary": "Currently fully supports Enrichr, JASPAR, miEAA, PANTHER, Reactome, STRING, and UniProt! The goal of rbioapi is to provide a user-friendly and consistent interface to biological databases and services: In a way that insulates the user from technicalities of using web services API and creates a unified and easy-to-use interface to biological and medical web services. This an ongoing project; New databases and services will be added periodically. Feel free to suggest any databases or services you often use.\n\nCRAN:\nhttps://cran.r-project.org/package=rbioapi\nGitHub Repository:\nhttps://github.com/moosa-r/rbioapi/\nDocumentation Site:\nhttps://rbioapi.moosa-r.com/",
+      "url": "https://cran.r-project.org/package=rbioapi"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
