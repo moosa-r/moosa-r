@@ -1,5 +1,5 @@
 # Theme Skin
-skin: default # default, night, plum, sea, soft, steel
+skin: custom # default, night, plum, sea, soft, steel
 
 # Theme Text
 t:
@@ -18,7 +18,7 @@ t:
   email: "Email"
   subscribe: "Subscribe"
   read_more: "Read More"
-  posts: "Posts"
+  posts: "Projects and Works"
   page: "Page"
   of: "of"
   min_read: "min read"
@@ -49,5 +49,9 @@ google_fonts:
 # pages that have a `title`. Add raw page paths in the order you'd like.
 
 navigation_pages:
-  - about.md
+  - projects.md
   - cv.md
+  - about.md
+#  - tags.md:
+#  - posts.md
+#  - categories.md

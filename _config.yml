@@ -14,27 +14,26 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: My Awesome Site
-email:
-description:
+title: Moosa Rezwani
+email: moosa.rezwani@gmail.com
+description: ""
+logo: /assets/icons/moosa-logo.svg
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://moosa-r.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name:
-  twitter:
-  picture:
-twitter_username:
-github_username:
-logo: # path of site logo, e.g. "/assets/images/logo.png"
-search: # true, false (default)
-search_full_content: false # true, false (default)
+  name: Moosa Rezwani
+  url: https://moosa-r.com
+#  twitter: twitter_account
+  picture: /assets/images/moosa-picture.png
+github_username: moosa-r
+search: true # true, false (default)
+search_full_content: true # true, false (default)
 search_provider: # lunr (default), algolia
 algolia:
   application_id: # YOUR_APPLICATION_ID
   index_name: # YOUR_INDEX_NAME
   search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
   powered_by: # true (default), false
-
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-basically-basic
@@ -47,8 +46,8 @@ feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
-paginate_path: /page:num/
+# paginate: 10
+# paginate_path: /page:num/
 
 # Exclude from processing.
 exclude:
@@ -76,10 +75,35 @@ exclude:
 
 # Front Matter Defaults
 defaults:
-  # _posts
-  - scope:
-      path: "_posts"
+  - 
+    scope:
+      path: ""
       type: posts
     values:
       layout: post
-      read_time: true
+      read_time: false
+  - 
+    scope:
+      path: ""
+    values:
+      layout: page
+      image: /assets/images/moosa-picture.png
+copyright: "© 2022 Moosa Rezwani. Powered by [Jekyll](https://jekyllrb.com/) and [Basically Basic](https://github.com/mmistakes/jekyll-theme-basically-basic) theme."
+google_analytics: G-YT92E6N17F
+# webmaster_verifications:
+#  google: 1234
+#  bing: 1234
+#  alexa: 1234
+#  yandex: 1234
+#  baidu: 1234
+#  facebook: 1234
+#
+##### added by me
+orchid_username: 0000-0001-6325-4444
+linkedin_username: moosa-rezwani
+researchgate_username: moosa-rezwani
+manual_cv: true
+footer:
+  navigation: true # show navigation side menu items in the footer?
+  contacts: true # show contacts side menu items in the footer?
+  text: "Sincere gratitude to the lovely artist [Iran Rahmani](https://www.instagram.com/iran_rahmanii/), who created the illustrations."
