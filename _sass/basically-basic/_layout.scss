@@ -105,6 +105,9 @@ main {
     .author-picture {
       margin: 0 0 2rem;
       border-radius: 2 * $border-radius;
+	  display: block;
+	  width: 300px;
+	  height: auto;
 
       @include breakpoint($medium) {
         margin: 0 0 0 2rem;

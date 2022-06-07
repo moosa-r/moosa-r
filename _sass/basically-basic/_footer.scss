@@ -3,12 +3,23 @@
    ========================================================================== */
 
 .site-footer {
-  margin-top: 4rem;
-  color: tint($text-color, 40%);
-  font-size: 80%;
+  padding-top: 0.5rem;
+  padding-right: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 0.5rem;
+  margin-top: 2rem;
+  margin-bottom: 0rem;
+  background-color: $footer-bacground-color;
+
+  color: #eaeaea;
+  font-size: 90%;
+    a {
+    text-decoration: none;
+  }
 
   .inner {
-    padding: 0 0.5rem;
+  ont-size: 90%;
+    padding: 5 0.5rem;
 
     @include breakpoint($small) {
       padding-right: 1rem;
@@ -34,4 +45,11 @@
 
 .copyright {
   font-family: $monospace-font-family;
+  font-size: 80%;
+}
+
+.site-footer-paragraph {
+  padding-right: 30px;
+  color: #eaeaea;
+  font-size: 90%;
 }
