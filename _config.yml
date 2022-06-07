@@ -16,7 +16,7 @@
 lang: en-US
 title: Moosa Rezwani
 email: moosa.rezwani@gmail.com
-description: ""
+description: "Moosa Rezwani (Immunologist & R Developer) personal portfolio website"
 logo: /assets/icons/moosa-logo.svg
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://moosa-r.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -25,6 +25,13 @@ author:
   url: https://moosa-r.com
 #  twitter: twitter_account
   picture: /assets/images/moosa-picture.png
+social:
+  name: Moosa Rezwani
+  links:
+    - https://github.com/moosa-r
+    - https://www.linkedin.com/in/moosa-rezwani
+    - https://orcid.org/0000-0001-6325-4444
+    - https://www.researchgate.net/profile/moosa-rezwani
 github_username: moosa-r
 search: true # true, false (default)
 search_full_content: true # true, false (default)
