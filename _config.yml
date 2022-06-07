@@ -84,17 +84,12 @@ exclude:
 defaults:
   - 
     scope:
-      path: ""
+      path: "_posts/"
       type: posts
     values:
       layout: post
       read_time: false
-  - 
-    scope:
-      path: ""
-    values:
-      layout: page
-      image: /assets/images/moosa-picture.png
+      comments: false
 copyright: "© 2022 Moosa Rezwani. Powered by [Jekyll](https://jekyllrb.com/) and [Basically Basic](https://github.com/mmistakes/jekyll-theme-basically-basic) theme."
 google_analytics: G-YT92E6N17F
 # webmaster_verifications:
