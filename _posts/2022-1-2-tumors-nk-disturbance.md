@@ -7,6 +7,7 @@ introduction:
 image:
   path: /assets/images/header_nk_cancer.jpg
   thumbnail: /assets/images/header_nk_cancer.jpg
+  alt: A collage illustration shows a man carefully observing an NK cell and a tumoral cell playing chess, symbolizing the research's goal of understanding the complex dynamics between the NK cells and tumors.
 categories:
   - "Academic Papers"
 type: projects

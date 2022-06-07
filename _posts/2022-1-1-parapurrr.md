@@ -7,6 +7,7 @@ introduction:
 image:
   path: /assets/images/header_parapurrr.jpg
   thumbnail: /assets/images/header_parapurrr.jpg
+  alt: A collage illustration depicts a man performing a magic trick by turning a single cat into numerous cats, symbolizing the parapurrr R package's objective to run purrr package's function using multiple CPU cores.
 categories:
   - "R Packages"
 type: projects

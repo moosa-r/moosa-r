@@ -7,6 +7,7 @@ introduction:
 image:
   path: /assets/images/header_rbioapi.jpg
   thumbnail: /assets/images/header_rbioapi.jpg
+  alt: A collage illustration shows a man running with a net in his hands, attempting to catch clouds, symbolizing the objective of the rbioapi R package, which is to retrieve information from web services and databases.
 categories:
   - "Academic Papers"
   - "R Packages"

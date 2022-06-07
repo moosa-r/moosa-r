@@ -7,6 +7,7 @@ introduction:
 image:
   path: /assets/images/header_nk-leukoreduction.jpg
   thumbnail: /assets/images/header_nk-leukoreduction.jpg
+  alt: A collage illustration shows a man standing in a blood collection facility, watching an NK cell donating blood, Symbolizing the research's objective to introduce used leukocyte reduction filters as NK cells source.
 categories:
   - "Academic Papers"
 type: projects
