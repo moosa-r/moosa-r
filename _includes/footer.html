@@ -1,11 +1,32 @@
 <footer id="footer" class="site-footer">
   <div class="inner">
+  
+	<!--- Added by me, List side menu items in the footer, copied from navigation.html --->
+	{% assign footer_nav = site.footer.navigation | default: false %}
+    {% if footer_nav %}
+	     {% include footer-nav.html %}
+    {% endif %}		
+	
+	<!--- Added by me, List side menu contact items --->
+	{% assign footer_contact = site.footer.contacts | default: false %}
+    {% if footer_contact %}
+	    {% include footer-contacts.html %}
+	{% endif %}
+	
+	<!--- Added by me, additianl text in the footer --->
+    {% if site.footer.text %}
+      <div class="site-footer-paragraph">
+        {{ site.footer.text | markdownify }}
+      </div>
+	{% endif %}
+    
     <div class="copyright">
       {% if site.copyright %}
-        {{ site.copyright | markdownify }}
+       {{ site.copyright | markdownify }}
       {% else %}
-        <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}.</p>
+        {{ site.time | date: '%Y' }} {{ site.title }}.
       {% endif %}
     </div>
+	
   </div>
 </footer>

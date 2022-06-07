@@ -1,0 +1,38 @@
+<div class="site-footer-paragraph">
+	<ul style="padding: 0px 0px">
+	
+	{% if site.email %}
+    <li style="display:inline; padding-right:0px">
+      <a href="mailto:{{ site.email }}">
+        <span class="icon icon--email">{% include icon-email-white.svg %}</span>
+        <span class="label">{{ site.data.theme.t.email | default: 'Email' }}</span>
+      </a>
+    </li>
+	<li class="divider" style="display:inline">&nbsp&nbsp</li>
+  {% endif %}
+
+  {% if site.github_username %}
+    <li style="display:inline; padding-right:"> {% include icon-github.html username=site.github_username label='GitHub' %}</li>
+	<li class="divider" style="display:inline">&nbsp&nbsp</li>
+  {% endif %}
+
+  {% if site.linkedin_username %}
+    <li style="display:inline; padding-right:"> {% include icon-linkedin.html username=site.linkedin_username label='Linkedin' %}</li>
+	<li class="divider" style="display:inline">&nbsp&nbsp</li>
+  {% endif %}
+  
+  {% if site.orchid_username %}
+    <li style="display:inline; padding-right:">{% include icon-orchid.html username=site.orchid_username label='ORCHID' %}</li>
+	<li class="divider" style="display:inline">&nbsp&nbsp</li>
+  {% endif %}
+  
+    {% if site.researchgate_username %}
+    <li style="display:inline; padding-right:">{% include icon-researchgate.html username=site.researchgate_username label='ResearchGate' %}</li>
+	<li class="divider" style="display:inline">&nbsp&nbsp</li>
+  {% endif %}
+  
+  {% if site.twitter_username %}
+    <li style="display:inline; padding-right:">{% include icon-twitter.html username=site.twitter_username label='Twitter' %}</li>
+  {% endif %}
+    </ul>
+</div>

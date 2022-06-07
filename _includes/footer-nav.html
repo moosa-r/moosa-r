@@ -1,0 +1,30 @@
+<div class="site-footer-paragraph">
+	<ul style="padding: 0px 0px">
+		<!-- Home link -->
+		<li style="display:inline">
+			<a href="{{ '/' | relative_url }}" itemprop="url">
+				<span itemprop="name">{{ site.data.theme.t.home | default: 'Home' }}</span>
+			</a>
+		</li>
+		<li class="divider" style="display:inline">&nbsp&nbsp</li>
+		
+		<!-- site.pages links -->
+      {% assign default_paths = site.pages | map: "path" %}
+      {% assign page_paths = site.data.theme.navigation_pages | default: default_paths %}
+
+      {% for path in page_paths %}
+        {% assign my_page = site.pages | where: "path", path | first %}
+        {% if my_page.title %}
+
+         <li style="display:inline">
+			<a href="{{ my_page.url | relative_url }}" itemprop="url">
+				<span itemprop="name">{{ my_page.title | escape }}</span>
+			</a>
+		</li>
+		<li class="divider" style="display:inline">&nbsp&nbsp</li>
+
+        {% endif %}
+		 
+      {% endfor %}
+    </ul>
+</div>

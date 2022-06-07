@@ -2,12 +2,20 @@
 layout: default
 ---
 
-{% assign cv = site.data.cv %}
-{% include cv/intro.html %}
-
+{% assign manual_cv = site.manual_cv %}
+{% if manual_cv %}
+{% include page-intro.html %}
 <main id="main" class="page-content" aria-label="Content">
   <div class="index inner">
-    <div>{{ content }}</div>
+    <div>{{ content | markdownify }}</div>
+  </div>
+</main>
+		
+{% else %}
+    {% include cv/intro.html %}
+	{% assign cv = site.data.cv %}
+<main id="main" class="page-content" aria-label="Content">
+  <div class="index inner">
     <div>
       <div class="entries">
         {% include cv/basics.html %}
@@ -23,4 +31,9 @@ layout: default
       </div>
     </div>
   </div>
-</main>
+</main>	
+		
+{% endif %}
+
+
+
