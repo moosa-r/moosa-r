@@ -55,6 +55,9 @@
   }
 
   .search-input {
+	color: $accent-color;
+	font-style: normal;
+	font-weight: bold;
     display: block;
     margin-bottom: 0;
     padding: 0;
