@@ -1,6 +1,7 @@
 ---
 title: "Curriculum Vitæ"
-sub_title: "Moosa Rezwani"
+sub_title: "Moosa Rezwani Public CV"
+introduction: 
 layout: cv
 actions:
   - label: "Download as PDF"
@@ -64,18 +65,6 @@ actions:
 <br> <br>
  
 ----
-## Honors and Awards
-
-  * **Received research grant**
-    * National Institute for Medical Research Development (_NIMAD_), grant Number 982968
-    * 2017
-  * **Scored 99th percentile in Iran&#39;s master&#39;s degree entrance examination**
-    * 2016
-  * **Scored 99th percentile in Iran&#39;s national universities entrance examination**
-    * 2010
-<br> <br>
- 
-----
 ## Skills and Experiences
 
   * **Laboratory Skills:**
@@ -89,10 +78,8 @@ actions:
 ----
 ## Publications
 
-  * **Moosa Rezwani**, Ali Akbar Pourfathollah, Farshid Noorbakhsh, rbioapi: user-friendly R interface to biologic web services’ API, Bioinformatics, 2022, <https://doi.org/10.1093/bioinformatics/btac172>
-  *	**Moosa Rezwani**, Abdulbaset Mazarzaei, Zahra Abbasi-Malati, Ali Akbar Pourfathollah, Leukocyte-Reduction Filters as Reliable and Economic Source of Natural Killer Cells‎. Iranian Journal of Immunology, 2022 (Under second round review, Manuscript ID IJI-2108-2158)
-  * **Moosa Rezwani**, Ali Akbar Pourfathollah, Farshid Noorbakhsh, Disturbances in NK Cells and Tumors’ Protein-Protein Interaction Network, a Pan-Cancer Analysis, 2022 (In prep)
-<br> <br>
+  * **Moosa Rezwani**, Ali Akbar Pourfathollah, Farshid Noorbakhsh, rbioapi: user-friendly R interface to biologic web services’ API, Bioinformatics, Volume 38, Issue 10, 15 May 2022, Pages 2952–2953, https://doi.org/10.1093/bioinformatics/btac172
+  *	**Moosa Rezwani**, Abdulbaset Mazarzaei, Zahra Abbasi-Malati, Ali Akbar Pourfathollah, Leukocyte-Reduction Filters as Reliable and Economic Source of Natural Killer Cells‎. Iranian Journal of Immunology, 2022 (Accepted, Manuscript ID IJI-2108-2158)
 
 ----
 ## Languages
