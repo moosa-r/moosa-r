@@ -90,6 +90,11 @@ defaults:
       layout: post
       read_time: false
       comments: false
+  -
+    scope:
+      path: "assets/**/*.pdf"
+    values:
+      sitemap: false
 copyright: "© 2022 Moosa Rezwani. Powered by [Jekyll](https://jekyllrb.com/) and [Basically Basic](https://github.com/mmistakes/jekyll-theme-basically-basic) theme."
 google_analytics: G-YT92E6N17F
 # webmaster_verifications:
