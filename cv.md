@@ -1,5 +1,5 @@
 ---
-title: "Curriculum Vitæ"
+title: "Curriculum Vitae"
 sub_title: "Moosa Rezwani Public CV"
 introduction: 
 layout: cv
@@ -87,7 +87,7 @@ actions:
 - **English** : Proficient
 - **Arabic** : Proficient
 - **Persian:** Native
-- **Larestani:** Native
+- [**Larestani:**](https://glottolog.org/resource/languoid/id/lari1253) Native
 <br> <br>
  
 ----
