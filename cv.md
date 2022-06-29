@@ -45,7 +45,7 @@ actions:
 <br> <br>
   * **Establishing Blood Transfusion waste products as a source of NK cells (Part of M.Sc. Thesis)**
     * 2017-2019
-    * Our project was one of several projects carried out by the Iranian Blood Transfusion Organization with the primary goal of introducing blood transfusion waste products as a sustainable and economic source of bio-molecules and cells. This is particularly important in under-developed countries where fundings and resources are limited. Methods including flow cytometry, immune cells isolation, ELISA, cell culture, and killing assays were used. NK cells obtained by our method is comparable to peripheral blood&#39;s NK cells in term of viability, Sub-populational composition, and function.
+    * Our project was part of a series conducted by the Iranian Blood Transfusion Organization to introduce blood transfusion waste products as a sustainable and cost-effective source of bio-molecules and cells. This is particularly important in under-developed countries where fundings and resources are limited. Methods including flow cytometry, immune cells isolation, ELISA, cell culture, and killing assays were used. NK cells obtained by our approach is comparable to peripheral blood’s NK cells in term of viability, Sub-populational composition, and function.
 <br> <br>
   * **rbioapi: User-Friendly R Interface to Biologic Web Services&#39; API**
     * 2020-2021
@@ -54,23 +54,23 @@ actions:
         * [CRAN](https://cran.r-project.org/package=rbioapi)
         * [GitHub Repository](https://github.com/moosa-r/rbioapi)
 	    * [Documentations Website](https://rbioapi.moosa-r.com/)
-    * We developed an R package, _rbioapi_, a consistent, user-friendly, and scalable interface to biological and medical databases and web services. To date, _rbioapi_ fully supports Enrichr, JASPAR, miEAA, PANTHER, Reactome, STRING, and UniProt. We aim to expand this list and make rbioapi as comprehensive as possible. To this end, we developed an infrastructure that facilitates collaborations and the implementation of new services.
+    * The R package, rbioapi, is an interface to biological and medical databases and web services. This package provides consistency, a smooth learning curve for the users, and scalability for the developers. To date, rbioapi fully supports Enrichr, JASPAR, miEAA, PANTHER, Reactome, STRING, and UniProt. I aim to expand this list and make rbioapi as comprehensive as possible by inviting collaborations and contributions.
 <br> <br>
   * **parapurrr: Do purrr in Parallel**
     * 2021
     * Open-source R package software
     * Links:
         * [GitHub Repository](https://github.com/moosa-r/parapurrr)
-    * We developed a simple yet fully customizable way to run functions iteratively in R using multiple CPU cores (instead of the default, one). The package parapurrr achieves that by bridging purrr to foreach package and its adaptors. We added support for all purrr&#39;s map family functions and every foreach adaptor available in CRAN.
+    * The R package, parapurrr, offers a simple yet fully customizable way to iteratively run functions in R using multiple CPU cores (instead of the default, one). The package parapurrr deliver that by bridging purrr to foreach package and its adaptors. All of purrr’s mapping functions and every foreach adaptor available in CRAN are supported.
 <br> <br>
  
 ----
 ## Skills and Experiences
 
   * **Laboratory Skills:**
-    * Flow cytometry, Mammalian cells culture, ELISA, qPCR, Mouse handling, Immune cells isolation (FACS, MACS), Western blotting (familiar with), General genetics lab skills (RNA isolation, Transduction, Genes cloning, Gel electrophoresis, etc.), General biochemistry lab skills (Chromatography, Spectrophotometry, Density gradient centrifugation, etc.)
+    * Flow cytometry, Mammalian cells culture, ELISA, qPCR, Immune cells isolation (FACS, MACS), Western blotting (familiar with), General genetics lab skills (RNA isolation, Transduction, Genes cloning, Gel electrophoresis, etc.), General biochemistry lab skills (Chromatography, Spectrophotometry, Density gradient centrifugation, etc.), Mouse handling
   * **Bioinformatics and Data Science:**
-    * R programming language, RNA-seq analysis, Microarray analysis, Software development, High-throughput data analysis, Systems biology, Data processing, Machine learning, Graphs and network analysis, Bioconductor, Primer design
+    * R programming language, RNA-seq analysis, Software development, High-throughput data analysis, Systems biology, Graphs and network analysis, Data processing, Machine learning, Big data, Bioconductor, Primer design
   * **Tools:**
     * Git, Unix/Linux shell and Bash scripting, Cloud computing and working with remote servers, Python (familiar with), FlowJo, SPSS, SQL (familiar with), Microsoft Office
 <br> <br>
