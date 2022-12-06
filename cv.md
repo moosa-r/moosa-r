@@ -11,9 +11,9 @@ actions:
 
 ----
 ## Contact Information
-  * **Email:** <moosa.rezwani@gmail.com>, <moosa.rezwani@modares.ac.ir>
+  * **Email:** <moosa.rezwani@gmail.com>, <moosa.rezwani@ulb.be>
   * **Website:** <https://moosa-r.com>
-  * **Location:** Bandar-e Lengeh, Iran
+  * **Location:** Brussels, Belgium
   * **Profiles:**
     * LinkedIn: [moosa-rezwani](https://www.linkedin.com/in/moosa-rezwani/)
 	* GitHub: [moosa-r](https://github.com/moosa-r/)
@@ -23,17 +23,26 @@ actions:
  
 ----
 ## Education
+  * **Ph.D.**
+    * **Biomedical and Pharmaceutical Science**
+    * 2022-2026
+    * Université Libre de Bruxelles, Brussels, Belgium
+	* ULB Center for Research in Immunology (U-CRI) - Institute for Medical Immunology (IMI) - Department of Pharmacotherapy and Pharmaceutics
+    * Advisor: Prof. David Vermijlen
+
   * **M.Sc.**
+    * **Medical Immunology**
     * 2016-2019
     * Tarbiat Modares University, Tehran, Iran
-    * Medical Immunology
+	* Department of Immunology - Faculty of Medical Sciences 
     * Thesis: &quot;Natural Killer Cells Extraction from Used Leuko-Reduction Filters in Blood Transfusion&quot;
     * Advisor: Prof. Ali Akbar Pourfathollah
 
   * **B.Sc.**
+    * **Cell and Molecular Biology**
     * 2010-2015
     * University of Tehran, Tehran, Iran
-    * Cell and Molecular Biology
+	* Faculty of Cell and Molecular Biology - School of Biology
 <br> <br>
  
 ----
