@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://moosa-r.com/atom.xml" rel="self" type="application/atom+xml" /><link href="https://moosa-r.com/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2024-04-27T00:29:58+00:00</updated><id>https://moosa-r.com/atom.xml</id><title type="html">Moosa Rezwani</title><subtitle>Moosa Rezwani (Immunologist &amp; R Developer) personal portfolio website</subtitle><author><name>Moosa Rezwani</name></author><entry><title type="html">rbioapi: User-Friendly R Interface to Biologic Web Services’ API</title><link href="https://moosa-r.com/projects/rbioapi" rel="alternate" type="text/html" title="rbioapi: User-Friendly R Interface to Biologic Web Services’ API" /><published>2022-01-04T00:00:00+00:00</published><updated>2022-01-04T00:00:00+00:00</updated><id>https://moosa-r.com/projects/rbioapi</id><content type="html" xml:base="https://moosa-r.com/projects/rbioapi"><![CDATA[<p>The goal of rbioapi is to provide a user-friendly and consistent interface to biological databases and services: In a way that insulates the user from technicalities of using web services API and creates a unified and easy-to-use interface to biological and medical web services.</p>
+
+<p>Currently rbioapi fully supports <strong>Enrichr</strong>, <strong>JASPAR</strong>, <strong>miEAA</strong>, <strong>PANTHER</strong>, <strong>Reactome</strong>, <strong>STRING</strong>, and <strong>UniProt</strong>. With rbioapi, you do not need to have technical knowledge about web services API or learn how to work with a new package for every biologic service or database. This an ongoing project; New databases and services will be added periodically. Feel free to <a href="https://github.com/moosa-r/rbioapi/issues" title="Issue section in rbioapi GitHub repository">suggest</a>
+any databases or services you often use.</p>
+
+<h2 id="published-paper">Published Paper</h2>
+
+<ul>
+  <li>
+    <p><a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac172/6551987?guestAccessKey=fe86505d-25bc-48a2-9c6f-b3a33a0feb89">Free Access link</a></p>
+  </li>
+  <li>
+    <p>Moosa Rezwani, Ali Akbar Pourfathollah, Farshid Noorbakhsh, rbioapi: user-friendly R interface to biologic web services’ API, Bioinformatics, Volume 38, Issue 10, 15 May 2022, Pages 2952–2953, <a href="https://doi.org/10.1093/bioinformatics/btac172">https://doi.org/10.1093/bioinformatics/btac172</a></p>
+  </li>
+</ul>
+
+<h2 id="documentation-website">Documentation website</h2>
+
+<ul>
+  <li>
+    <p><a href="https://rbioapi.moosa-r.com/">rbioapi.moosa-r.com</a></p>
+  </li>
+  <li>
+    <p>The package rbioapi has an extensive <a href="https://rbioapi.moosa-r.com/">Documentation website</a>. Here you can find detailed vignette articles, function manuals, and other content meant to assist users in getting started and efficiently utilize rbioapi into their research.</p>
+  </li>
+</ul>
+
+<h2 id="other-links">Other links</h2>
+
+<ul>
+  <li>
+    <p><a href="https://github.com/moosa-r/rbioapi/" title="The git repository with the rbioapi package's source code.">GitHub
+repository</a></p>
+  </li>
+  <li>
+    <p><a href="https://cran.r-project.org/package=rbioapi">CRAN stable release</a></p>
+  </li>
+</ul>
+
+<h2 id="tutorials-and-vignette-articles">Tutorials and Vignette Articles:</h2>
+
+<ul>
+  <li>
+    <p><a href="https://rbioapi.moosa-r.com/articles/rbioapi.html">Get Started</a></p>
+  </li>
+  <li>
+    <p><a href="https://rbioapi.moosa-r.com/articles/rbioapi_do_enrich.html">Over-Representation (Enrichment) Analysis in R, with rbioapi</a></p>
+  </li>
+  <li>
+    <p><a href="https://rbioapi.moosa-r.com/articles/rbioapi_enrichr.html">Enrichr &amp; rbioapi</a></p>
+  </li>
+  <li>
+    <p><a href="https://rbioapi.moosa-r.com/articles/rbioapi_jaspar.html">JASPAR &amp; rbioapi</a></p>
+  </li>
+  <li>
+    <p><a href="https://rbioapi.moosa-r.com/articles/rbioapi_mieaa.html">miEEA &amp; rbioapi</a></p>
+  </li>
+  <li>
+    <p><a href="https://rbioapi.moosa-r.com/articles/rbioapi_panther.html">PANTHER &amp; rbioapi</a></p>
+  </li>
+  <li>
+    <p><a href="https://rbioapi.moosa-r.com/articles/rbioapi_reactome.html">Reactome &amp; rbioapi</a></p>
+  </li>
+  <li>
+    <p><a href="https://rbioapi.moosa-r.com/articles/rbioapi_string.html">STRING &amp; rbioapi</a></p>
+  </li>
+  <li>
+    <p><a href="https://rbioapi.moosa-r.com/articles/rbioapi_uniprot.html">UniProt &amp; rbioapi</a></p>
+  </li>
+  <li>
+    <p><a href="https://rbioapi.moosa-r.com/reference/index.html">Function Manuals</a></p>
+  </li>
+</ul>]]></content><author><name>Moosa Rezwani</name></author><category term="Academic Papers" /><category term="R Packages" /><category term="cran" /><category term="bioinformatics" /><category term="R" /><category term="rstats" /><category term="R package" /><category term="api-client" /><category term="enrichment analysis" /><category term="genomic data retrieval" /><summary type="html"><![CDATA[The goal of rbioapi is to provide a user-friendly and consistent interface to biological databases and services: In a way that insulates the user from technicalities of using web services API and creates a unified and easy-to-use interface to biological and medical web services.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://moosa-r.com/assets/images/header_rbioapi.jpg" /><media:content medium="image" url="https://moosa-r.com/assets/images/header_rbioapi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Leukocyte Reduction Filters: Reliable and Economic Source of Natural Killer Cells‎</title><link href="https://moosa-r.com/projects/nk_source_leukocyte_reduction_filters" rel="alternate" type="text/html" title="Leukocyte Reduction Filters: Reliable and Economic Source of Natural Killer Cells‎" /><published>2022-01-03T00:00:00+00:00</published><updated>2022-01-03T00:00:00+00:00</updated><id>https://moosa-r.com/projects/nk-leukoreduction</id><content type="html" xml:base="https://moosa-r.com/projects/nk_source_leukocyte_reduction_filters"><![CDATA[<p>Part of a projects series conducted in the Iranian Blood Transfusion Organization with the primary goal of introducing blood transfusion waste products as a sustainable and economic source of bio-molecules and cells.</p>
+
+<p>This is particularly important in under-developed countries where fundings and resources are limited.</p>
+
+<p>We have investigated if the used leukocyte reduction filters, a by-product in the blood transfusion practice that currently is considered wastes, can be utilized as a source of NK cells. Our results shows that the used leukocyte reduction filters can be considered as an economic, easy to obtain, and robust source of abundant research-grade NK cells.</p>
+
+<p>Every major leukocyte population was abundant in the samples extracted from the used leukocyte reduction filters. The NK cells extracted from leukocyte reduction filters with our proposed workflow did not show any statistically meaningful differences from peripheral blood samples in terms of sub-populational composition, viability, degranulation potency, and cytotoxic capacity.</p>
+
+<p>Please see our publication for more detail:</p>
+
+<blockquote>
+  <p>Moosa Rezwani, Abdulbaset Mazarzaei, Zahra Abbasi-Malati, Ali Akbar Pourfathollah, Leukocyte-Reduction Filters as Reliable and Economic Source of Natural Killer Cells‎. Iranian Journal of Immunology, 2022 (Accpeted)</p>
+</blockquote>]]></content><author><name>Moosa Rezwani</name></author><category term="Academic Papers" /><category term="blood Transfusion" /><category term="natural Killer Cells" /><category term="leukocyte reduction procedures" /><category term="PBMC" /><category term="peripheral blood mononuclear cells" /><category term="cell isolation" /><category term="NK cells source" /><category term="Natural killers cells source" /><category term="IBTO" /><category term="iranian blood transfusion organization" /><summary type="html"><![CDATA[Part of a projects series conducted in the Iranian Blood Transfusion Organization with the primary goal of introducing blood transfusion waste products as a sustainable and economic source of bio-molecules and cells.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://moosa-r.com/assets/images/header_nk-leukoreduction.jpg" /><media:content medium="image" url="https://moosa-r.com/assets/images/header_nk-leukoreduction.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Disturbances in NK Cells and Tumors’ Protein-Protein Interaction Network, a Pan-Cancer Analysis‎</title><link href="https://moosa-r.com/projects/tumors-nk-disturbance" rel="alternate" type="text/html" title="Disturbances in NK Cells and Tumors’ Protein-Protein Interaction Network, a Pan-Cancer Analysis‎" /><published>2022-01-02T00:00:00+00:00</published><updated>2022-01-02T00:00:00+00:00</updated><id>https://moosa-r.com/projects/tumors-nk-disturbance</id><content type="html" xml:base="https://moosa-r.com/projects/tumors-nk-disturbance"><![CDATA[<p>This is an unpublished project. I’ve actually carried out the analysis and am writing the manuscript. Still, I could not resist posting this page because I am really excited about the research’s findings and fell in love with this illustration!</p>]]></content><author><name>Moosa Rezwani</name></author><category term="Academic Papers" /><category term="natural killer cells" /><category term="NK cells" /><category term="tumors immunity" /><category term="pan cancer analysis" /><summary type="html"><![CDATA[This is an unpublished project. I’ve actually carried out the analysis and am writing the manuscript. Still, I could not resist posting this page because I am really excited about the research’s findings and fell in love with this illustration!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://moosa-r.com/assets/images/header_nk_cancer.jpg" /><media:content medium="image" url="https://moosa-r.com/assets/images/header_nk_cancer.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">parapurr: Do purrr in Parallel (Alpha version)</title><link href="https://moosa-r.com/projects/parapurrr" rel="alternate" type="text/html" title="parapurr: Do purrr in Parallel (Alpha version)" /><published>2022-01-01T00:00:00+00:00</published><updated>2022-01-01T00:00:00+00:00</updated><id>https://moosa-r.com/projects/parapurrr</id><content type="html" xml:base="https://moosa-r.com/projects/parapurrr"><![CDATA[<p>A simple yet fully customizable way to run functions iteratively in R using multiple CPU cores (instead of the default, one) by bridging purrr to foreach package and its adapters.</p>
+
+<p>With parapurrr, one can run <a href="https://cran.r-project.org/package=purrr" title="purrr: Functional Programming Tools">purrr</a>’s mapping functions in parallel (i.e., incorporate multiple CPU cores instead of the default, one). The package parapurrr does that by connecting <a href="https://cran.r-project.org/package=purrr" title="purrr: Functional Programming Tools">purrr</a> to <a href="https://cran.r-project.org/package=foreach" title="foreach: Provides Foreach Looping Construct">foreach</a> package and its adapters. Users are only required to add a prefix “pa_” before their desired purrr functions (e.g., pa_map instead of map). The rest will be handled internally. All map family functions and all foreach adapters on CRAN are supported.</p>
+
+<p>Please see the <a href="https://github.com/moosa-r/parapurrr#readme">parapurrr’s vignette article</a> for additional information, including FAQs and detailed instructions on fully tailoring the parallelization process.</p>]]></content><author><name>Moosa Rezwani</name></author><category term="R Packages" /><category term="cran" /><category term="R" /><category term="rstats" /><category term="R package" /><category term="purrr" /><category term="parallel computing" /><category term="multicore" /><category term="high-performanc computing" /><summary type="html"><![CDATA[A simple yet fully customizable way to run functions iteratively in R using multiple CPU cores (instead of the default, one) by bridging purrr to foreach package and its adapters.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://moosa-r.com/assets/images/header_parapurrr.jpg" /><media:content medium="image" url="https://moosa-r.com/assets/images/header_parapurrr.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
