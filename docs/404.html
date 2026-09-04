@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#f7f6f2" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#191e1b" media="(prefers-color-scheme: dark)">
+  <script>
+    try {
+      const theme = localStorage.getItem('theme');
+      if (theme === 'light' || theme === 'dark') document.documentElement.dataset.theme = theme;
+    } catch {}
+  </script>
+  <meta name="robots" content="noindex">
+  <title>Page not found — Moosa Rezwani</title>
+  <link rel="icon" href="/favicon.ico" sizes="16x16 32x32 48x48">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#17362e">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="stylesheet" href="/assets/site.css">
+  <script src="/assets/site.js" defer></script>
+</head>
+<body>
+  <main class="page not-found">
+    <div class="not-found-copy">
+      <h1>404 — Page not found</h1>
+      <p>The page you’re looking for isn’t here.</p>
+      <a href="/"><span aria-hidden="true">←</span> Return to the homepage</a>
+    </div>
+    <figure class="not-found-art">
+      <div class="not-found-frame">
+        <img src="/assets/images/404-leukocyte.png" alt="Collage depicting a T cell receiving a blood transfusion while reclining in a chair. Artwork by Eran Rahmani." width="697" height="898">
+      </div>
+      <figcaption>Artwork by <a href="https://eran-rahmani.com/" data-tooltip="View the artist’s website">Eran Rahmani</a></figcaption>
+    </figure>
+  </main>
+</body>
+</html>

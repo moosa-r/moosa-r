@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "lang": "en-US",
+  "name": "Moosa Rezwani",
+  "short_name": "Moosa",
+  "description": "Moosa Rezwani is a PhD researcher at the Université libre de Bruxelles studying human γδ T cells and the TCR repertoire in health and disease.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "background_color": "#f7f6f2",
+  "theme_color": "#f7f6f2",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

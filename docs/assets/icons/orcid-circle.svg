@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Font Awesome Free 7.3.1, CC BY 4.0: https://fontawesome.com/license/free -->
+  <defs>
+    <mask id="orcid-cutout" maskUnits="userSpaceOnUse" x="0" y="0" width="32" height="32">
+      <rect width="32" height="32" fill="#fff"/>
+      <path fill="#000" transform="matrix(.0753676471 0 0 .0753676471 -4.7638 -1.636)" d="M294.7 188.2l-45.9 0 0 153.8 47.5 0c67.6 0 83.1-51.3 83.1-76.9 0-41.6-26.5-76.9-84.7-76.9zM175.2 368.8l-29.8 0 0-207.5 29.8 0 0 207.5zM160.3 98.5a19.6 19.6 0 1 1 0 39.2 19.6 19.6 0 1 1 0-39.2zM300 369l-81 0 0-207.7 80.6 0c76.7 0 110.4 54.8 110.4 103.9 0 53.3-41.7 103.9-110 103.9z"/>
+    </mask>
+  </defs>
+  <circle cx="16" cy="16" r="15.5" mask="url(#orcid-cutout)"/>
+</svg>

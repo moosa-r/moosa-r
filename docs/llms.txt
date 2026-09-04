@@ -1,0 +1,17 @@
+# Moosa Rezwani
+
+> Personal website of Moosa Rezwani, an immunologist and computational biologist.
+
+Moosa Rezwani is a PhD researcher in Biomedical and Pharmaceutical Sciences at the Université libre de Bruxelles. His work combines immunology and computational biology to study human γδ T cells in breast milk and the architecture of the TCR repertoire. More broadly, he investigates how T-cell function and receptor diversity shape immunity in health and disease.
+
+## Profiles
+
+* [ORCID](https://orcid.org/0000-0001-6325-4444): Researcher identifier and publication record.
+* [GitHub](https://github.com/moosa-r): Research software and code repositories.
+* [LinkedIn](https://www.linkedin.com/in/moosa-rezwani/): Professional profile.
+
+## Software
+
+* [rbioapi documentation](https://rbioapi.moosa-r.com/): Documentation for rbioapi, an R interface to biological databases and web services.
+* [rbioapi source code](https://github.com/moosa-r/rbioapi): Source code and development repository for rbioapi.
+* [rbioapi on CRAN](https://cran.r-project.org/package=rbioapi): Official CRAN package page.
